@@ -1,0 +1,11 @@
+:root {
+  --light-basic-typography-paragraph-small-semi-bold-font-family: "PublicSans-SemiBold", Helvetica;
+  --light-basic-typography-paragraph-small-semi-bold-font-size: 13px;
+  --light-basic-typography-paragraph-small-semi-bold-font-style: normal;
+  --light-basic-typography-paragraph-small-semi-bold-font-weight: 600;
+  --light-basic-typography-paragraph-small-semi-bold-letter-spacing: 0px;
+  --light-basic-typography-paragraph-small-semi-bold-line-height: 14px;
+  --lightsolid-colordangerdanger-500-base: rgba(234, 84, 85, 1);
+  --lightsolid-colorextrawhite: rgba(255, 255, 255, 1);
+  --white: rgba(255, 255, 255, 1);
+}
