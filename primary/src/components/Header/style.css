@@ -1,0 +1,100 @@
+.header {
+  background-color: var(--whitewhite);
+  box-shadow: var(--border-shadow-bottom);
+  height: 68px;
+  position: relative;
+  width: 656px;
+}
+
+.header .message-participants {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  left: 257px;
+  position: absolute;
+  top: 17px;
+}
+
+.header .text-wrapper-3 {
+  color: var(--textgraydark);
+  font-family: var(--font-weights-text-semibold-font-family);
+  font-size: var(--font-weights-text-semibold-font-size);
+  font-style: var(--font-weights-text-semibold-font-style);
+  font-weight: var(--font-weights-text-semibold-font-weight);
+  letter-spacing: var(--font-weights-text-semibold-letter-spacing);
+  line-height: var(--font-weights-text-semibold-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .p {
+  color: var(--textgray);
+  font-family: var(--font-sizes-text-xs-font-family);
+  font-size: var(--font-sizes-text-xs-font-size);
+  font-style: var(--font-sizes-text-xs-font-style);
+  font-weight: var(--font-sizes-text-xs-font-weight);
+  letter-spacing: var(--font-sizes-text-xs-letter-spacing);
+  line-height: var(--font-sizes-text-xs-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .avatar-group {
+  height: 26px;
+  left: 13px;
+  position: absolute;
+  top: 21px;
+  width: 84px;
+}
+
+.header .overlap-group-3 {
+  height: 26px;
+  position: relative;
+}
+
+.header .design-component-instance-node {
+  left: 0 !important;
+  position: absolute !important;
+  top: 1px !important;
+}
+
+.header .avatar-with {
+  background-color: var(--whitewhite);
+  border-radius: 13px;
+  height: 26px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.header .avatar-2 {
+  left: 1px !important;
+  position: relative !important;
+  top: 1px !important;
+}
+
+.header .avatar-wrapper {
+  background-color: var(--whitewhite);
+  border-radius: 13px;
+  height: 26px;
+  left: 38px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.header .avatar-instance-wrapper {
+  background-color: var(--whitewhite);
+  border-radius: 13px;
+  height: 26px;
+  left: 58px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}

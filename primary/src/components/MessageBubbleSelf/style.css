@@ -1,0 +1,158 @@
+.message-bubble-self {
+  align-items: center;
+  display: inline-flex;
+  position: relative;
+}
+
+.message-bubble-self .bubble-right {
+  align-items: center;
+  background-color: var(--blueblue-5);
+  border-radius: 6px 0px 0px 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 4px 0px 4px 8px;
+  position: relative;
+}
+
+.message-bubble-self .message-frame {
+  align-items: flex-end;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+  transform: rotate(180deg);
+}
+
+.message-bubble-self .body {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  transform: rotate(180deg);
+}
+
+.message-bubble-self .text {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.message-bubble-self .hi-there-my-name-is {
+  color: var(--whitewhite);
+  font-family: var(--font-weights-text-regular-font-family);
+  font-size: var(--font-weights-text-regular-font-size);
+  font-style: var(--font-weights-text-regular-font-style);
+  font-weight: var(--font-weights-text-regular-font-weight);
+  letter-spacing: var(--font-weights-text-regular-letter-spacing);
+  line-height: var(--font-weights-text-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.message-bubble-self .spacer {
+  align-self: stretch;
+  background-color: var(--blueblue-5);
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.message-bubble-self .time-read-receipt {
+  align-items: flex-end;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  position: relative;
+}
+
+.message-bubble-self .frame {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+}
+
+.message-bubble-self .element-AM {
+  color: var(--whitewhite);
+  font-family: "Eloquia Text-Light", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.message-bubble-self .img {
+  height: 8.88px;
+  margin-left: -0.24px;
+  position: relative;
+  transform: rotate(-180deg);
+  width: 16.6px;
+}
+
+.message-bubble-self .bubble-left {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.message-bubble-self .bubble-tip {
+  height: 12px;
+  position: relative;
+  width: 15px;
+}
+
+.message-bubble-self .overlap-group {
+  height: 12px;
+  position: relative;
+  width: 14px;
+}
+
+.message-bubble-self .top-vector-tip {
+  height: 11px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.message-bubble-self .top-rectangle {
+  background-color: var(--blueblue-5);
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.message-bubble-self .bottom-curve {
+  background-color: var(--blueblue-5);
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 6px;
+}
+
+.message-bubble-self .bottom-curve-vector {
+  height: 7px;
+  position: relative;
+  width: 6px;
+}

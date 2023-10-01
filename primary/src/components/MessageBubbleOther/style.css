@@ -1,0 +1,199 @@
+.message-bubble-other {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 4px;
+  position: relative;
+}
+
+.message-bubble-other .avatar-with-online {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.message-bubble-other .avatar-instance {
+  width: unset !important;
+}
+
+.message-bubble-other .message-bubble {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.message-bubble-other .div {
+  align-items: flex-end;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.message-bubble-other .overlap-group-wrapper {
+  height: 12px;
+  position: relative;
+  transform: rotate(180deg);
+  width: 15px;
+}
+
+.message-bubble-other .overlap-group-2 {
+  height: 12px;
+  position: relative;
+  width: 14px;
+}
+
+.message-bubble-other .top-vector-tip-2 {
+  height: 11px;
+  left: 6px;
+  position: absolute;
+  top: 1px;
+  transform: rotate(-180deg);
+  width: 9px;
+}
+
+.message-bubble-other .top-rectangle-2 {
+  background-color: var(--graygray-1);
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.message-bubble-other .bottom-curve-2 {
+  background-color: var(--graygray-1);
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 6px;
+}
+
+.message-bubble-other .bottom-curve-vector-2 {
+  height: 7px;
+  position: relative;
+  width: 6px;
+}
+
+.message-bubble-other .message-frame-wrapper {
+  align-items: center;
+  background-color: var(--graygray-1);
+  border-radius: 0px 6px 6px 0px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 4px 8px 4px 0px;
+  position: relative;
+}
+
+.message-bubble-other .message-frame-2 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  justify-content: center;
+  position: relative;
+  transform: rotate(180deg);
+}
+
+.message-bubble-other .sender {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  transform: rotate(180deg);
+}
+
+.message-bubble-other .name {
+  color: var(--textgraydark);
+  font-family: var(--font-weights-text-semibold-font-family);
+  font-size: var(--font-weights-text-semibold-font-size);
+  font-style: var(--font-weights-text-semibold-font-style);
+  font-weight: var(--font-weights-text-semibold-font-weight);
+  letter-spacing: var(--font-weights-text-semibold-letter-spacing);
+  line-height: var(--font-weights-text-semibold-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.message-bubble-other .role {
+  color: var(--textgray);
+  font-family: var(--font-sizes-text-xs-font-family);
+  font-size: var(--font-sizes-text-xs-font-size);
+  font-style: var(--font-sizes-text-xs-font-style);
+  font-weight: var(--font-sizes-text-xs-font-weight);
+  letter-spacing: var(--font-sizes-text-xs-letter-spacing);
+  line-height: var(--font-sizes-text-xs-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.message-bubble-other .body-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+  transform: rotate(180deg);
+}
+
+.message-bubble-other .text-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.message-bubble-other .text-wrapper {
+  color: var(--textgraydark);
+  font-family: var(--font-weights-text-regular-font-family);
+  font-size: var(--font-weights-text-regular-font-size);
+  font-style: var(--font-weights-text-regular-font-style);
+  font-weight: var(--font-weights-text-regular-font-weight);
+  letter-spacing: var(--font-weights-text-regular-letter-spacing);
+  line-height: var(--font-weights-text-regular-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.message-bubble-other .spacer-2 {
+  align-self: stretch;
+  background-color: var(--graygray-1);
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.message-bubble-other .time {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.message-bubble-other .text-wrapper-2 {
+  color: var(--textgray);
+  font-family: "Eloquia Text-Light", Helvetica;
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

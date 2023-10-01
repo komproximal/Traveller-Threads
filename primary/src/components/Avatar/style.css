@@ -1,0 +1,604 @@
+.avatar {
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.avatar .toyfaces-colored-BG {
+  height: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 1px;
+}
+
+.avatar .toyfaces-colored-BG-2 {
+  height: 1px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.avatar.twenty-four-px {
+  height: 24px;
+  width: 24px;
+}
+
+.avatar.forty-eight-px {
+  height: 48px;
+  width: 48px;
+}
+
+.avatar.purple-user {
+  background-image: url(../../../static/img/avatar-url-42.png);
+  position: relative;
+}
+
+.avatar.thirty-two-px {
+  height: 32px;
+  width: 32px;
+}
+
+.avatar.twenty-px {
+  height: 20px;
+  width: 20px;
+}
+
+.avatar.twenty-eight-px {
+  height: 28px;
+  width: 28px;
+}
+
+.avatar.sixteen-px {
+  height: 16px;
+  width: 16px;
+}
+
+.avatar.forty-px {
+  height: 40px;
+  width: 40px;
+}
+
+.avatar.sixty-four-px {
+  height: 64px;
+  width: 64px;
+}
+
+.avatar.thirty-two-px.green-bg {
+  background-image: url(../../../static/img/avatar-url-46.png);
+}
+
+.avatar.forty-eight-px.fuschia-bg {
+  background-image: url(../../../static/img/avatar-url-60.png);
+}
+
+.avatar.lavender-bg.forty-eight-px {
+  background-image: url(../../../static/img/avatar-url-52.png);
+  position: relative;
+}
+
+.avatar.yellow-bg.twenty-px {
+  background-image: url(../../../static/img/avatar-url-89.png);
+}
+
+.avatar.purple-bg.forty-eight-px {
+  background-image: url(../../../static/img/avatar-url-76.png);
+}
+
+.avatar.purple-bg.twenty-four-px {
+  background-image: url(../../../static/img/avatar-url-80.png);
+}
+
+.avatar.forty-eight-px.green-bg {
+  background-image: url(../../../static/img/avatar-url-44.png);
+}
+
+.avatar.thirty-two-px.indigo-bg {
+  background-image: url(../../../static/img/avatar-url-38.png);
+}
+
+.avatar.sixteen-px.fuschia-bg {
+  background-image: url(../../../static/img/avatar-url-66.png);
+}
+
+.avatar.sixteen-px.lavender-bg {
+  background-image: url(../../../static/img/avatar-url-58.png);
+}
+
+.avatar.purple-bg.sixteen-px {
+  background-image: url(../../../static/img/avatar-url-82.png);
+}
+
+.avatar.twenty-four-px.office {
+  background-image: url(../../../static/img/avatar-url-16.png);
+}
+
+.avatar.twenty-eight-px.fuschia-bg {
+  background-image: url(../../../static/img/avatar-url-63.png);
+}
+
+.avatar.twenty-eight-px.lavender-bg {
+  background-image: url(../../../static/img/avatar-url-55.png);
+}
+
+.avatar.black-bg.forty-px {
+  background-image: url(../../../static/img/avatar-url-21.png);
+}
+
+.avatar.twenty-px.office {
+  background-image: url(../../../static/img/avatar-url-17.png);
+}
+
+.avatar.twenty-px.black-bg {
+  background-image: url(../../../static/img/avatar-url-25.png);
+}
+
+.avatar.thirty-two-px.yellow-bg {
+  background-image: url(../../../static/img/avatar-url-86.png);
+}
+
+.avatar.twenty-px.green-bg {
+  background-image: url(../../../static/img/avatar-url-49.png);
+}
+
+.avatar.purple-bg.forty-px {
+  background-image: url(../../../static/img/avatar-url-77.png);
+}
+
+.avatar.sixteen-px.rose-bg {
+  background-image: url(../../../static/img/avatar-url-34.png);
+}
+
+.avatar.thirty-two-px.fuschia-bg {
+  background-image: url(../../../static/img/avatar-url-62.png);
+}
+
+.avatar.thirty-two-px.lavender-bg {
+  background-image: url(../../../static/img/avatar-url-54.png);
+}
+
+.avatar.indigo-bg.forty-px {
+  background-image: url(../../../static/img/avatar-url-37.png);
+}
+
+.avatar.indigo-bg.twenty-four-px {
+  background-image: url(../../../static/img/avatar-url-40.png);
+}
+
+.avatar.indigo-bg.twenty-eight-px {
+  background-image: url(../../../static/img/avatar-url-39.png);
+}
+
+.avatar.sixty-four-px.rose-bg {
+  background-image: url(../../../static/img/avatar-url-27.png);
+}
+
+.avatar.rose-bg.forty-px {
+  background-image: url(../../../static/img/avatar-url-29.png);
+}
+
+.avatar.black-bg.twenty-four-px {
+  background-image: url(../../../static/img/avatar-url-24.png);
+}
+
+.avatar.sixty-four-px.green-bg {
+  background-image: url(../../../static/img/avatar-url-43.png);
+}
+
+.avatar.sixty-four-px.office {
+  background-image: url(../../../static/img/avatar-url-11.png);
+}
+
+.avatar.black-bg.sixty-four-px {
+  background-image: url(../../../static/img/avatar-url-19.png);
+}
+
+.avatar.twenty-four-px.green-bg {
+  background-image: url(../../../static/img/avatar-url-48.png);
+}
+
+.avatar.yellow-bg.sixty-four-px {
+  background-image: url(../../../static/img/avatar-url-83.png);
+}
+
+.avatar.purple-bg.sixty-four-px {
+  background-image: url(../../../static/img/avatar-url-75.png);
+  position: relative;
+}
+
+.avatar.sixty-four-px.fuschia-bg {
+  background-image: url(../../../static/img/avatar-url-59.png);
+}
+
+.avatar.lavender-bg.sixty-four-px {
+  background-image: url(../../../static/img/avatar-url-51.png);
+}
+
+.avatar.sixteen-px.pink-bg {
+  background-image: url(../../../static/img/avatar-url-74.png);
+}
+
+.avatar.thirty-two-px.rose-bg {
+  background-image: url(../../../static/img/avatar-url-30.png);
+}
+
+.avatar.indigo-bg.forty-eight-px {
+  background-image: url(../../../static/img/avatar-url-36.png);
+}
+
+.avatar.twenty-px.rose-bg {
+  background-image: url(../../../static/img/avatar-url-33.png);
+}
+
+.avatar.twenty-four-px.pink-bg {
+  background-image: url(../../../static/img/avatar-url-72.png);
+}
+
+.avatar.thirty-two-px.office {
+  background-image: url(../../../static/img/avatar-url-14.png);
+}
+
+.avatar.sixty-four-px.pink-bg {
+  background-image: url(../../../static/img/avatar-url-67.png);
+}
+
+.avatar.pink-bg.forty-px {
+  background-image: url(../../../static/img/avatar-url-69.png);
+  position: relative;
+}
+
+.avatar.yellow-bg.twenty-four-px {
+  background-image: url(../../../static/img/avatar-url-88.png);
+}
+
+.avatar.thirty-two-px.purple-bg {
+  background-image: url(../../../static/img/avatar-url-78.png);
+}
+
+.avatar.forty-px.fuschia-bg {
+  background-image: url(../../../static/img/avatar-url-61.png);
+}
+
+.avatar.lavender-bg.forty-px {
+  background-image: url(../../../static/img/avatar-url-53.png);
+}
+
+.avatar.yellow-bg.twenty-eight-px {
+  background-image: url(../../../static/img/avatar-url-87.png);
+}
+
+.avatar.twenty-px.fuschia-bg {
+  background-image: url(../../../static/img/avatar-url-65.png);
+}
+
+.avatar.twenty-eight-px.office {
+  background-image: url(../../../static/img/avatar-url-15.png);
+}
+
+.avatar.twenty-px.lavender-bg {
+  background-image: url(../../../static/img/avatar-url-57.png);
+}
+
+.avatar.black-bg.twenty-eight-px {
+  background-image: url(../../../static/img/avatar-url-23.png);
+}
+
+.avatar.forty-eight-px.pink-bg {
+  background-image: url(../../../static/img/avatar-url-68.png);
+}
+
+.avatar.purple-bg.twenty-px {
+  background-image: url(../../../static/img/avatar-url-81.png);
+}
+
+.avatar.twenty-four-px.fuschia-bg {
+  background-image: url(../../../static/img/avatar-url-64.png);
+}
+
+.avatar.lavender-bg.twenty-four-px {
+  background-image: url(../../../static/img/avatar-url-56.png);
+  position: relative;
+}
+
+.avatar.yellow-bg.sixteen-px {
+  background-image: url(../../../static/img/avatar-url-90.png);
+}
+
+.avatar.black-bg.sixteen-px {
+  background-image: url(../../../static/img/avatar-url-26.png);
+}
+
+.avatar.twenty-eight-px.rose-bg {
+  background-image: url(../../../static/img/avatar-url-31.png);
+}
+
+.avatar.sixteen-px.office {
+  background-image: url(../../../static/img/avatar-url-18.png);
+}
+
+.avatar.indigo-bg.sixty-four-px {
+  background-image: url(../../../static/img/avatar-url-35.png);
+}
+
+.avatar.sixteen-px.green-bg {
+  background-image: url(../../../static/img/avatar-url-50.png);
+}
+
+.avatar.thirty-two-px.black-bg {
+  background-image: url(../../../static/img/avatar-url-10.png);
+  position: relative;
+}
+
+.avatar.thirty-two-px.pink-bg {
+  background-image: url(../../../static/img/avatar-url-70.png);
+}
+
+.avatar.yellow-bg.forty-px {
+  background-image: url(../../../static/img/avatar-url-85.png);
+}
+
+.avatar.twenty-px.pink-bg {
+  background-image: url(../../../static/img/avatar-url-73.png);
+}
+
+.avatar.purple-bg.twenty-eight-px {
+  background-image: url(../../../static/img/avatar-url-79.png);
+}
+
+.avatar.forty-px.green-bg {
+  background-image: url(../../../static/img/avatar-url-45.png);
+}
+
+.avatar.yellow-bg.forty-eight-px {
+  background-image: url(../../../static/img/avatar-url-84.png);
+}
+
+.avatar.forty-eight-px.office {
+  background-image: url(../../../static/img/avatar-url-12.png);
+}
+
+.avatar.black-bg.forty-eight-px {
+  background-image: url(../../../static/img/avatar-url-20.png);
+}
+
+.avatar.twenty-eight-px.pink-bg {
+  background-image: url(../../../static/img/avatar-url-71.png);
+}
+
+.avatar.twenty-eight-px.green-bg {
+  background-image: url(../../../static/img/avatar-url-47.png);
+}
+
+.avatar.indigo-bg.twenty-px {
+  background-image: url(../../../static/img/avatar-url-41.png);
+}
+
+.avatar.rose-bg.forty-eight-px {
+  background-image: url(../../../static/img/avatar-url-28.png);
+}
+
+.avatar.twenty-four-px.rose-bg {
+  background-image: url(../../../static/img/avatar-url-32.png);
+}
+
+.avatar.account.forty-px.office {
+  background-image: url(../../../static/img/avatar-url-13.png);
+}
+
+.avatar.forty-eight-px .toyfaces-colored-BG {
+  left: 14px;
+  top: 15px;
+}
+
+.avatar.purple-user.sixty-four-px .toyfaces-colored-BG {
+  top: 7px;
+}
+
+.avatar.thirty-two-px.green-bg .toyfaces-colored-BG {
+  left: 16px;
+  top: 13px;
+}
+
+.avatar.purple-bg.twenty-four-px .toyfaces-colored-BG {
+  left: 31px;
+  top: 39px;
+}
+
+.avatar.twenty-eight-px.purple-user .toyfaces-colored-BG {
+  top: 7px;
+}
+
+.avatar.thirty-two-px.indigo-bg .toyfaces-colored-BG {
+  left: 16px;
+  top: 13px;
+}
+
+.avatar.twenty-px.purple-user .toyfaces-colored-BG {
+  top: 7px;
+}
+
+.avatar.sixteen-px.fuschia-bg .toyfaces-colored-BG {
+  left: 11px;
+}
+
+.avatar.sixteen-px.lavender-bg .toyfaces-colored-BG {
+  left: 11px;
+}
+
+.avatar.purple-bg.sixteen-px .toyfaces-colored-BG {
+  left: 31px;
+  top: 39px;
+}
+
+.avatar.thirty-two-px.purple-user .toyfaces-colored-BG {
+  left: 16px;
+  top: 7px;
+}
+
+.avatar.twenty-four-px.office .toyfaces-colored-BG {
+  left: 11px;
+  top: 14px;
+}
+
+.avatar.thirty-two-px.yellow-bg .toyfaces-colored-BG {
+  left: 16px;
+  top: 13px;
+}
+
+.avatar.purple-bg.forty-px .toyfaces-colored-BG {
+  left: 31px;
+  top: 39px;
+}
+
+.avatar.sixteen-px.rose-bg .toyfaces-colored-BG {
+  left: 11px;
+}
+
+.avatar.thirty-two-px.fuschia-bg .toyfaces-colored-BG {
+  left: 16px;
+  top: 13px;
+}
+
+.avatar.thirty-two-px.lavender-bg .toyfaces-colored-BG {
+  left: 16px;
+  top: 13px;
+}
+
+.avatar.indigo-bg.twenty-four-px .toyfaces-colored-BG {
+  left: 11px;
+  top: 14px;
+}
+
+.avatar.twenty-four-px.purple-user .toyfaces-colored-BG {
+  left: 11px;
+  top: 14px;
+}
+
+.avatar.black-bg.twenty-four-px .toyfaces-colored-BG {
+  left: 11px;
+  top: 14px;
+}
+
+.avatar.indigo-bg.sixteen-px .toyfaces-colored-BG {
+  left: 11px;
+}
+
+.avatar.twenty-four-px.green-bg .toyfaces-colored-BG {
+  left: 11px;
+  top: 14px;
+}
+
+.avatar.purple-bg.sixty-four-px .toyfaces-colored-BG {
+  left: 31px;
+  top: 39px;
+}
+
+.avatar.sixteen-px.pink-bg .toyfaces-colored-BG {
+  left: 25px;
+  top: 18px;
+}
+
+.avatar.thirty-two-px.rose-bg .toyfaces-colored-BG {
+  left: 16px;
+  top: 13px;
+}
+
+.avatar.purple-user.forty-px .toyfaces-colored-BG {
+  top: 7px;
+}
+
+.avatar.twenty-four-px.pink-bg .toyfaces-colored-BG {
+  left: 25px;
+  top: 18px;
+}
+
+.avatar.thirty-two-px.office .toyfaces-colored-BG {
+  left: 16px;
+  top: 13px;
+}
+
+.avatar.sixty-four-px.pink-bg .toyfaces-colored-BG {
+  left: 25px;
+  top: 18px;
+}
+
+.avatar.pink-bg.forty-px .toyfaces-colored-BG {
+  left: 25px;
+  top: 18px;
+}
+
+.avatar.yellow-bg.twenty-four-px .toyfaces-colored-BG {
+  left: 11px;
+  top: 14px;
+}
+
+.avatar.thirty-two-px.purple-bg .toyfaces-colored-BG {
+  left: 31px;
+  top: 39px;
+}
+
+.avatar.sixteen-px.purple-user .toyfaces-colored-BG {
+  left: 11px;
+  top: 7px;
+}
+
+.avatar.purple-bg.twenty-px .toyfaces-colored-BG {
+  left: 31px;
+  top: 39px;
+}
+
+.avatar.twenty-four-px.fuschia-bg .toyfaces-colored-BG {
+  left: 11px;
+  top: 14px;
+}
+
+.avatar.lavender-bg.twenty-four-px .toyfaces-colored-BG {
+  left: 11px;
+  top: 14px;
+}
+
+.avatar.yellow-bg.sixteen-px .toyfaces-colored-BG {
+  left: 11px;
+}
+
+.avatar.black-bg.sixteen-px .toyfaces-colored-BG {
+  left: 11px;
+}
+
+.avatar.sixteen-px.office .toyfaces-colored-BG {
+  left: 11px;
+}
+
+.avatar.sixteen-px.green-bg .toyfaces-colored-BG {
+  left: 11px;
+}
+
+.avatar.thirty-two-px.black-bg .toyfaces-colored-BG {
+  left: 16px;
+  top: 13px;
+}
+
+.avatar.thirty-two-px.pink-bg .toyfaces-colored-BG {
+  left: 25px;
+  top: 18px;
+}
+
+.avatar.twenty-px.pink-bg .toyfaces-colored-BG {
+  left: 25px;
+  top: 18px;
+}
+
+.avatar.purple-bg.twenty-eight-px .toyfaces-colored-BG {
+  left: 31px;
+  top: 39px;
+}
+
+.avatar.twenty-eight-px.pink-bg .toyfaces-colored-BG {
+  left: 25px;
+  top: 18px;
+}
+
+.avatar.twenty-four-px.rose-bg .toyfaces-colored-BG {
+  left: 11px;
+  top: 14px;
+}

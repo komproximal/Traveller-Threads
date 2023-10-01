@@ -1,0 +1,81 @@
+.nav-pills {
+  align-items: center;
+  display: flex;
+  position: relative;
+  width: 600px;
+}
+
+.nav-pills .tab {
+  align-items: center;
+  background-color: var(--lightsolid-colorprimaryprimary-500-base);
+  border-radius: 6px;
+  box-shadow: var(--light-gray-gray-SM);
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 8px 20px;
+  position: relative;
+}
+
+.nav-pills .text-3 {
+  color: var(--componentsbuttonlightdefault);
+  font-family: var(--light-basic-typography-paragraph-font-family);
+  font-size: var(--light-basic-typography-paragraph-font-size);
+  font-style: var(--light-basic-typography-paragraph-font-style);
+  font-weight: var(--light-basic-typography-paragraph-font-weight);
+  letter-spacing: var(--light-basic-typography-paragraph-letter-spacing);
+  line-height: var(--light-basic-typography-paragraph-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-pills .div-wrapper {
+  align-items: center;
+  border-radius: 6px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 8px 20px;
+  position: relative;
+}
+
+.nav-pills .text-4 {
+  color: var(--lighttypography-colorheading-text);
+  font-family: var(--light-basic-typography-paragraph-font-family);
+  font-size: var(--light-basic-typography-paragraph-font-size);
+  font-style: var(--light-basic-typography-paragraph-font-style);
+  font-weight: var(--light-basic-typography-paragraph-font-weight);
+  letter-spacing: var(--light-basic-typography-paragraph-letter-spacing);
+  line-height: var(--light-basic-typography-paragraph-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-pills .text-5 {
+  color: var(--lighttypography-colormuted-text);
+  font-family: var(--light-basic-typography-paragraph-font-family);
+  font-size: var(--light-basic-typography-paragraph-font-size);
+  font-style: var(--light-basic-typography-paragraph-font-style);
+  font-weight: var(--light-basic-typography-paragraph-font-weight);
+  letter-spacing: var(--light-basic-typography-paragraph-letter-spacing);
+  line-height: var(--light-basic-typography-paragraph-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-pills.right {
+  justify-content: flex-end;
+}
+
+.nav-pills.center {
+  justify-content: center;
+}

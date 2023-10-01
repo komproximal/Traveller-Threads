@@ -1,0 +1,1 @@
+export { MessagesPrimary } from "./MessagesPrimary";
