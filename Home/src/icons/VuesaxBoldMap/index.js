@@ -1,0 +1,1 @@
+export { VuesaxBoldMap } from "./VuesaxBoldMap";

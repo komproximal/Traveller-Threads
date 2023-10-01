@@ -1,0 +1,1 @@
+export { VuesaxOutlineSearchNormal } from "./VuesaxOutlineSearchNormal";
