@@ -1,0 +1,315 @@
+.tips {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.tips .div-3 {
+  background-color: #ffffff;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.tips .frame-2 {
+  height: 905px;
+  left: 0;
+  overflow-y: scroll;
+  position: absolute;
+  top: 119px;
+  width: 1440px;
+}
+
+.tips .CTA-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 2975px !important;
+}
+
+.tips .p {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 42px;
+  font-weight: 600;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.tips .put-yourself-to-the {
+  color: #8f8f8f;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 900;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: 27px;
+  position: absolute;
+  top: 66px;
+  width: 619px;
+}
+
+.tips .card {
+  background-image: url(../../../static/img/image-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 567px;
+  left: 77px;
+  position: absolute;
+  top: 920px;
+  width: 576px;
+}
+
+.tips .button {
+  all: unset;
+  box-sizing: border-box;
+  height: 107px;
+  left: 82px;
+  position: relative;
+  top: 251px;
+  width: 414px;
+}
+
+.tips .div-wrapper {
+  background-color: #ffffff;
+  height: 107px;
+  position: relative;
+  width: 412px;
+}
+
+.tips .text-wrapper-11 {
+  color: #34aff4;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: 284px;
+}
+
+.tips .button-wrapper {
+  background-image: url(../../../static/img/placeholder-image.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 567px;
+  left: 769px;
+  position: absolute;
+  top: 920px;
+  width: 576px;
+}
+
+.tips .text-wrapper-12 {
+  color: #34aff4;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 284px;
+}
+
+.tips .card-2 {
+  background-image: url(../../../static/img/image-4.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 567px;
+  left: 77px;
+  position: absolute;
+  top: 1605px;
+  width: 576px;
+}
+
+.tips .text-wrapper-13 {
+  color: #34aff4;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  left: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 30px;
+  white-space: nowrap;
+  width: 284px;
+}
+
+.tips .card-3 {
+  background-image: url(../../../static/img/image-3.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 567px;
+  left: 769px;
+  position: absolute;
+  top: 1605px;
+  width: 576px;
+}
+
+.tips .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  height: 107px;
+  left: 84px;
+  position: relative;
+  top: 254px;
+  width: 414px;
+}
+
+.tips .card-4 {
+  background-image: url(../../../static/img/image-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 567px;
+  left: 77px;
+  position: absolute;
+  top: 2290px;
+  width: 576px;
+}
+
+.tips .overlap-wrapper {
+  height: 567px;
+  left: 769px;
+  position: absolute;
+  top: 2290px;
+  width: 576px;
+}
+
+.tips .overlap-3 {
+  background-image: url(../../../static/img/frame-31.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 12px;
+  height: 567px;
+}
+
+.tips .button-3 {
+  all: unset;
+  box-sizing: border-box;
+  height: 107px;
+  left: 83px;
+  position: relative;
+  top: 251px;
+  width: 414px;
+}
+
+.tips .text-wrapper-14 {
+  color: #34aff4;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+  width: 284px;
+}
+
+.tips .card-5 {
+  background-image: url(../../../static/img/image-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 567px;
+  left: 769px;
+  position: absolute;
+  top: 235px;
+  width: 576px;
+}
+
+.tips .button-4 {
+  all: unset;
+  box-sizing: border-box;
+  height: 85px;
+  left: 82px;
+  position: relative;
+  top: 267px;
+  width: 414px;
+}
+
+.tips .overlap-group-2 {
+  background-color: #ffffff;
+  height: 85px;
+  position: relative;
+  width: 412px;
+}
+
+.tips .text-wrapper-15 {
+  color: #34aff4;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  left: 74px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 263px;
+}
+
+.tips .card-6 {
+  background-image: url(../../../static/img/image.png);
+  background-size: 100% 100%;
+  height: 567px;
+  left: 77px;
+  position: absolute;
+  top: 235px;
+  width: 576px;
+}
+
+.tips .button-5 {
+  all: unset;
+  box-sizing: border-box;
+  height: 109px;
+  left: 120px;
+  position: relative;
+  top: 256px;
+  width: 337px;
+}
+
+.tips .use-public-wrapper {
+  background-color: #ffffff;
+  height: 109px;
+  position: relative;
+  width: 335px;
+}
+
+.tips .use-public {
+  color: #34aff4;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 300;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+}
+
+.tips .navbar-instance {
+  left: 0 !important;
+  position: fixed !important;
+  top: 0 !important;
+}
+
+.tips .design-component-instance-node {
+  color: #181818 !important;
+}
+
+.tips .navbar-2 {
+  color: #34aff4 !important;
+}
